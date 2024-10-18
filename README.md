@@ -1,11 +1,14 @@
 # YouTube Client (TV Interface)
 
-A simple electron app that gives access to the YouTube TV interface similar to the AndroidTV App. 
+A simple electron app that gives access to the YouTube TV interface similar to the AndroidTV App.
 
-## Installation 
-### Windows + Linux
-* Download the Executable or AppImage from releases
-* Run downloaded file
+![app image](./img/app.jpg)
+
+## Installation
+### Linux
+* Download AppImage from releases
+* Install the AppImage with your preferred AppImage manager, I'd recommend GearLever
+
 ### Steam Deck (Gaming Mode)
 * Enter Desktop Mode
 * Download AppImage from releases
