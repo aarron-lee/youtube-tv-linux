@@ -8,20 +8,30 @@ A simple electron app that gives access to the YouTube TV interface similar to t
 
 ### Linux
 
-- Download AppImage from releases
-- Install the AppImage with your preferred AppImage manager, I'd recommend [GearLever](https://flathub.org/apps/it.mijorus.gearlever)
+### Quick Install
+
+Run the following in terminal:
+
+```
+curl -L https://github.com/aarron-lee/youtube-tv-linux/raw/main/install.sh | sh
+```
 
 ### Steam Deck (Gaming Mode)
 
+Run the Quick or Manual install first, then do the following:
+
 - Enter Desktop Mode
-- Download AppImage from releases
-- Use an AppImage manager to install the app, I'd recommend [GearLever](https://flathub.org/apps/it.mijorus.gearlever)
-- Open Steam, in the bottom left corner press the `Add a Game > Add a Non-Steam game`. Find the app and add it
+- Open Steam, in the bottom left corner press the `Add a Game > Add a Non-Steam game`. Find the youtube tv app and add it
 - Launch Game Mode
-- Go to the YouTube non steam game
+- Go to the YouTube TV non steam game
 - Select Community Control Layout `YouTube TV Client`
 - You can now launch the app and navigate with controller
 - (Optional) Add artwork using `SteamGridDB`
+
+#### Manual Install
+
+- Download AppImage from releases
+- Install the AppImage with your preferred AppImage manager, I'd recommend [GearLever](https://flathub.org/apps/it.mijorus.gearlever)
 
 # Build from source
 
