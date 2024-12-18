@@ -13,7 +13,7 @@ A simple electron app that gives access to the YouTube TV interface similar to t
 Run the following in terminal:
 
 ```
-curl -L https://github.com/aarron-lee/youtube-tv-linux/raw/main/install.sh | sh
+curl -L https://github.com/aarron-lee/youtube-tv-linux/raw/master/install.sh | sh
 ```
 
 ### Steam Deck (Gaming Mode)
