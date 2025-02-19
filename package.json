@@ -38,7 +38,8 @@
   "author": "Haroon01",
   "license": "ISC",
   "devDependencies": {
-    "electron": "github:castlabs/electron-releases#v31.3.1+wvcus",
+    "electron": "github:castlabs/electron-releases#v33.4.1+wvcus",
     "electron-builder": "^24.13.3"
-  }
+  },
+  "packageManager": "pnpm@8.15.4+sha1.c85a4305534f76d461407b59277b954bac97b5c4"
 }
