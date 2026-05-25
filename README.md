@@ -1,3 +1,7 @@
+# Deprecated, try out VacuumTube on Flathub
+
+https://flathub.org/en/apps/rocks.shy.VacuumTube
+
 # YouTube Client (TV Interface)
 
 A simple electron app that gives access to the YouTube TV interface similar to the AndroidTV App.
